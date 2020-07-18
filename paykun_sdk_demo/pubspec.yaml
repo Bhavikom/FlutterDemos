@@ -22,6 +22,9 @@ environment:
 
 dependencies:
   fluttertoast: ^3.1.0
+  razorpay_flutter: 1.1.0
+
+  http: ^0.12.2
   flutter:
     sdk: flutter
 
